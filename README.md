@@ -1,6 +1,6 @@
 # Hi, I'm Edanur Kılıç
 
-# Hi, I'm Edanur, a computer engineering student, and I'm interested in cybersecurity. I'm a member of SiberVatan Yavuzlar team, and I work on projects with my friends at Eternal Edge Cyber, developing my skills in cybersecurity.
+# A computer engineering student, and I'm interested in cybersecurity. I'm a member of SiberVatan Yavuzlar team, and I work on projects with my friends at Eternal Edge Cyber, developing my skills in cybersecurity.
 
 ---
 
