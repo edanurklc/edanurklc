@@ -1,6 +1,6 @@
 # Hi, I'm Edanur Kılıç
 
-# A computer engineering student, and I'm interested in cybersecurity. I'm a member of SiberVatan Yavuzlar team, and I work on projects with my friends at Eternal Edge Cyber, developing my skills in cybersecurity.
+<sub>A computer engineering student, and I'm interested in cybersecurity. I'm a member of SiberVatan Yavuzlar team, and I work on projects with my friends at Eternal Edge Cyber, developing my skills in cybersecurity.</sub>
 
 ---
 
@@ -21,6 +21,8 @@ edanurklc@terminal:~$ team --list
 
 edanurklc@terminal:~$ _
 ```
+
+---
 
 ### Connect with me:
 
