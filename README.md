@@ -1,6 +1,5 @@
 # Hi, I'm Edanur Kılıç
 
-### Computer Engineering Student
 
 ---
 
