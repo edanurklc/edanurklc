@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A020F0&background=00000000&center=false&vCenter=true&width=650&lines=whoami+%3A+Edanur+K%C4%B1l%C4%B1%C3%A7;team+--list+%3A+Siber+Vatan+Yavuzlar;team+--list+%3A+Eternal+Edge+Cyber;" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="coding gif" />
+<img src="hello_world.gif" width="400" alt="hello world coding gif" />
 
 ---
 
