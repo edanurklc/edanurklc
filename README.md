@@ -13,7 +13,7 @@ edanurklc@terminal:~$ whoami
 Edanur Kılıç
 
 edanurklc@terminal:~$ role
-computer engineering student
+Computer Engineering and Cyber Security Student
 
 edanurklc@terminal:~$ team --list
 > Siber Vatan Yavuzlar
@@ -22,11 +22,6 @@ edanurklc@terminal:~$ team --list
 edanurklc@terminal:~$ _
 ```
 
----
-
-- My GitHub: [github.com/edanurklc](https://github.com/edanurklc)
-
----
 
 ### Connect with me:
 
@@ -35,9 +30,6 @@ edanurklc@terminal:~$ _
 </a>
 <a href="https://medium.com/@edanurkilic7963">
   <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://github.com/edanurklc">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://app.hackviser.com/profile">
   <img src="https://img.shields.io/badge/HACKVISER-A020F0?style=for-the-badge&logo=hackthebox&logoColor=white" />
