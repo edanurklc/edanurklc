@@ -1,18 +1,29 @@
 <h1 align="center">Hi, I'm Edanur Kılıç</h1>
 
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering and Cyber Security Student</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=Siber+Vatan+Yavuzlar;Eternal+Edge+Cyber+Dam;Hacking+the+Future...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E30A17&background=00000000&center=true&vCenter=true&width=520&lines=whoami+%3A+edanurklc;team+--list+%3A+Siber+Vatan+Yavuzlar;team+--list+%3A+Eternal+Edge+Cyber+Dam;" alt="Typing SVG" />
 </p>
 
 ---
 
-- My GitHub: [github.com/edanurklc](https://github.com/edanurklc)
+```bash
+edanurklc@terminal:~$ whoami
+edanur kılıç
 
----
+edanurklc@terminal:~$ role
+Computer Engineering student
+
+edanurklc@terminal:~$ team --list
+> Yavuzlar
+> Eternal Edge Cyber 
+
+edanurklc@terminal:~$ _
+```
+
 
 ### Connect with me:
 
@@ -22,9 +33,6 @@
   </a>
   <a href="https://medium.com/@edanurkilic7963">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/edanurklc">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
